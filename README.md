@@ -1,4 +1,4 @@
-Os relatórios técnicos detalhado são os dois arquivos .pdf que estão no repositório.
+O relatório técnico detalhado é o arquivo .pdf 
 
 Códigos: https://colab.research.google.com/drive/1C_B_Z4TvD0Qm2PKXTKIECjpr2oEZRwd1?usp=sharing
 
