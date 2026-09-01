@@ -10,4 +10,4 @@ df = pd.read_csv("/data.csv")
 
 Após o upload do arquivo, execute os trechos de códigos na sequência exata em que se encontram.
 
-Vídeo Explicativo do projeto:
+Vídeo Explicativo do projeto: https://vimeo.com/1223151676?share=copy&fl=sv&fe=ci
