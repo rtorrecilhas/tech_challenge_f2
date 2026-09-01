@@ -1,5 +1,7 @@
 O relatório técnico detalhado é o arquivo .pdf 
 
+Google Drive com todos os arquivos: https://drive.google.com/drive/folders/1OWZlYs2_rflBDakIPB8uZyPp5CkB7UaH?usp=drive_link
+
 Códigos: https://colab.research.google.com/drive/1C_B_Z4TvD0Qm2PKXTKIECjpr2oEZRwd1?usp=sharing
 
 Como Rodar o Projeto no Google Colab: Ao abrir o link do google colab, faça o upload da base de dados com o nome data.csv, caso seja necessário altere o caminho relativo da linha.
